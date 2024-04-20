@@ -11,6 +11,5 @@ Sou um humano que está digitando um texto
 2. segundo passo
 ---
 ---
-> Está é uma citação
 
 # Início
