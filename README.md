@@ -1,3 +1,15 @@
+# CRUD MYsqL
+- Projeto construindo no curso de fullstack python.
+MYSQL, streemingGIT. Com objetivo de explorar os conceitos apreendidos em liguangem sql, python
+e interfaces gráficas. Permite o usuários cadastrar, atualizar
+
+## como utilizar o projeto:
+- Python superior
+- MYSQL superior
+- MYSQL connector 8.3.0
+- Streamy lit
+
+                 
 # repositorio-crud
 # **Dennis Orion**
 # **Continuação*
